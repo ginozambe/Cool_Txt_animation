@@ -1,1 +1,1 @@
-# Cool-Img-animation
+# Cool Text Animation
